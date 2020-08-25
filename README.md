@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-![GHBanner](https://user-images.githubusercontent.com/62856013/91188672-6ca60280-e6a6-11ea-8f42-1ec62ff17931.jpg)
+![Simple Abstract LinkedIn](https://user-images.githubusercontent.com/62856013/91189182-ffdf3800-e6a6-11ea-8b53-79c93e20e1e6.png)
 
 
 After I discovered the secret to turning my Monday blues to Friday euphoria (spoiler alert - coding!), I quit my management role at Raytheon Technologies to pursue my passion. In addition to coding, I have over 10 years of Key Account Sales Management experience in the commercial aerospace sector along with a Bachelor of Engineering in Aerospace Systems.
