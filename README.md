@@ -31,6 +31,10 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 * Experienced in giving presentations in front of large audiences (+300)
 
 
-## Checkout my portfolio
+## Links & socials
 
-https://milamirian.com
+Portfolio: https://milamirian.com
+
+LinkedIn: https://www.linkedin.com/in/milamirian/
+
+Twitter: https://twitter.com/mamirian2
