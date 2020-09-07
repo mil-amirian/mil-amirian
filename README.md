@@ -9,8 +9,8 @@ After I discovered the secret to turning my Monday blues to Friday euphoria (spo
 ## Technologies I use
 
 * HTML5 & CCS3
-* JavaScript
-* Bootsrap
+* JavaScript (ES5 & ES6)
+* Bootsrap (3 & 4)
 * React.js
 * Node.js
 * PHP
