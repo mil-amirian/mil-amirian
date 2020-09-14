@@ -3,8 +3,9 @@
 ![Simple Abstract LinkedIn](https://user-images.githubusercontent.com/62856013/91189182-ffdf3800-e6a6-11ea-8b53-79c93e20e1e6.png)
 
 
-After I discovered the secret to turning my Monday blues to Friday euphoria (spoiler alert - coding!), I quit my management role at Raytheon Technologies to pursue my passion. In addition to coding, I have over 10 years of Key Account Sales Management experience in the commercial aerospace sector along with a Bachelor of Engineering in Aerospace Systems.
+Full Stack Developer with a passion for technology and solving complex problems. Experienced in using MERN stack (incl. MySQL & PHP) to create real-world single page applications on time and to spec.
 
+In addition to development, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
 
 ## Technologies I use
 
