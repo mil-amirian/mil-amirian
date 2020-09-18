@@ -5,7 +5,7 @@
 
 Full Stack Developer with a passion for technology and solving complex problems. Experienced in using MERN stack (incl. MySQL & PHP) to create real-world single page applications on time and to spec.
 
-In addition to development, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
+In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
 
 ## Technologies I use
 
