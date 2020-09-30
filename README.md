@@ -3,7 +3,7 @@
 ![Simple Abstract LinkedIn](https://user-images.githubusercontent.com/62856013/91189182-ffdf3800-e6a6-11ea-8b53-79c93e20e1e6.png)
 
 
-Full Stack Developer with a passion for technology and solving complex problems. Experienced in using MERN stack to create real-world single page applications on time and to spec.
+Front End Developer with a passion for technology and solving complex problems. Experienced in using MERN stack to create real-world single page applications on time and to spec.
 
 In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
 
@@ -29,7 +29,7 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 * Self-starter with meticulous time-management skills
 * Extensive communication experience across organizations (up to C-level)
 * Customer-oriented mentality with a focus on putting the client's needs first
-* Experienced in giving presentations in front of large audiences (+300)
+* Experienced in giving presentations in front of large audiences (300+)
 
 
 ## Links & socials
