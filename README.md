@@ -3,7 +3,7 @@
 ![Simple Abstract LinkedIn](https://user-images.githubusercontent.com/62856013/91189182-ffdf3800-e6a6-11ea-8b53-79c93e20e1e6.png)
 
 
-Full Stack Developer with a passion for technology and solving complex problems. Experienced in using MERN stack to create real-world single page applications on time and to spec.
+Full Stack Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
 
 In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
 
