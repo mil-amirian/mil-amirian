@@ -5,7 +5,7 @@
 
 Full Stack Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
 
-In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace System
+In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace Systems
 
 ## Technologies I use
 
@@ -21,7 +21,7 @@ In addition to programming, prior experience includes over 10 years of Key Accou
 
 ## How did I get into coding?
 
-I have always possessed the mindset of a programmer - the ability to find solutions regardless of the complexity of the problem. Even during my bachelor’s in aerospace systems engineering, I was consistently drawn to avionics architecture, ARINC databuses and their communication protocols. I also covered Aerothermodynamics and propulsion, but it was always the systems portions that really excited me. In 2014, while playing around with static themes, I realized I loved the process of manipulating code. With coding, I have found it to be the summation of complex problem solving that has the power to make a genuine difference in the world. It is truly an endeavor like no other.
+I have always possessed the mindset of a programmer - the ability to find solutions regardless of the complexity of the problem. Even during my bachelor’s in Aerospace Systems Engineering, I was consistently drawn to avionics architecture, ARINC databuses and their communication protocols. I also covered Aerothermodynamics and propulsion, but it was always the systems portions that really excited me. In 2014, while playing around with static themes, I realized I loved the process of manipulating code. With coding, I have found it to be the summation of complex problem solving that has the power to make a genuine difference in the world. It is truly an endeavor like no other.
 
 ## Softskills
 
