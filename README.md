@@ -14,10 +14,7 @@ In addition to programming, prior experience includes over 10 years of Key Accou
 * Bootsrap (3 & 4)
 * React.js
 * Node.js
-* PHP
-* MySQL
-* Firebase
-* MongoDB
+* PostgreSQL
 
 ## How did I get into coding?
 
