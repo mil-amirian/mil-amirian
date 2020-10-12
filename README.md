@@ -1,11 +1,11 @@
 # Welcome to my GitHub
 
-![Simple Abstract LinkedIn](https://user-images.githubusercontent.com/62856013/91189182-ffdf3800-e6a6-11ea-8b53-79c93e20e1e6.png)
+![banner](https://user-images.githubusercontent.com/62856013/95694848-f410ec00-0be8-11eb-9ad2-607a03853e68.png)
 
 
-Full Stack Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
+Front End Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
 
-In addition to programming, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace Systems
+In addition to web development, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace Systems
 
 ## Technologies I use
 
