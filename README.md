@@ -2,6 +2,9 @@
 
 ![banner](https://user-images.githubusercontent.com/62856013/95694848-f410ec00-0be8-11eb-9ad2-607a03853e68.png)
 
+[![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+
+
 
 Front End Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
 
