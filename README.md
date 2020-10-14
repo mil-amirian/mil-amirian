@@ -6,6 +6,10 @@ Front End Developer with a passion for technology and solving complex problems. 
 
 In addition to web development, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace Systems
 
+## Quick stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+
 ## Technologies I use
 
 * HTML5 & CSS3
@@ -26,11 +30,6 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 * Extensive communication experience across organizations (up to C-level)
 * Customer-oriented mentality with a focus on putting the client's needs first
 * Experienced in giving presentations in front of large audiences (300+)
-
-## Quick stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
-
 
 
 ## Links & socials
