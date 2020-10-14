@@ -9,6 +9,8 @@ In addition to web development, prior experience includes over 10 years of Key A
 ## Quick stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+[![Actual Time Spent stats](https://github-readme-stats.vercel.app/api/wakatime?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+
 
 ## Technologies I use
 
