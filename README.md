@@ -31,6 +31,8 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 
 
 ![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian&count_private=true&show_icons=true&hide_stars=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+
 
 
 
