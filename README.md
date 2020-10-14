@@ -2,10 +2,6 @@
 
 ![banner](https://user-images.githubusercontent.com/62856013/95694848-f410ec00-0be8-11eb-9ad2-607a03853e68.png)
 
-[![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
-
-
-
 Front End Developer with a passion for technology and solving complex problems. Experienced in using PostgreSQL, React.js, Express & Node.js to create real-world single page applications on time and to spec.
 
 In addition to web development, prior experience includes over 10 years of Key Account Sales Management experience in the commercial aerospace sector and a Bachelor of Engineering in Aerospace Systems
@@ -30,6 +26,9 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 * Extensive communication experience across organizations (up to C-level)
 * Customer-oriented mentality with a focus on putting the client's needs first
 * Experienced in giving presentations in front of large audiences (300+)
+
+[![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+
 
 
 ## Links & socials
