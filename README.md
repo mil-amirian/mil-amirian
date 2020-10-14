@@ -30,7 +30,7 @@ I have always possessed the mindset of a programmer - the ability to find soluti
 ## Quick stats
 
 
-[![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian)](https://github.com/mil-amirian/github-readme-stats)
+![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian&show_icons=true)
 ![mil-amirian's github stats](https://github-readme-stats.vercel.app/api?username=mil-amirian&count_private=true)
 
 
