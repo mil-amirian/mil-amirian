@@ -9,7 +9,7 @@ In addition to web development, prior experience includes over 10 years of Key A
 
 ## Technologies I use
 
-* HTML5 & CCS3
+* HTML5 & CSS3
 * JavaScript (ES5 & ES6)
 * Bootsrap (3 & 4)
 * React.js
