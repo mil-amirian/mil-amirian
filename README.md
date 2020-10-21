@@ -20,7 +20,7 @@ In addition to web development, prior experience includes over 10 years of Key A
 * PostgreSQL
 
 ## What I'm currently working on
-* Learning React Native & Socket.IO
+* Learning React Native, Socket.IO & Heroku
 * Developing a full stack pizza ordering app with order customization
 
 ## How did I get into coding?
