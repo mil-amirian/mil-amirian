@@ -19,6 +19,10 @@ In addition to web development, prior experience includes over 10 years of Key A
 * Node.js
 * PostgreSQL
 
+## What I'm currently working on
+* Learning React Native & Socket.IO
+* Developing a full stack pizza ordering app with order customization
+
 ## How did I get into coding?
 
 I have always possessed the mindset of a programmer - the ability to find solutions regardless of the complexity of the problem. Even during my bachelor’s in Aerospace Systems Engineering, I was consistently drawn to avionics architecture, ARINC databuses and their communication protocols. I also covered Aerothermodynamics and propulsion, but it was always the systems portions that really excited me. In 2014, while playing around with static themes, I realized I loved the process of manipulating code. With coding, I have found it to be the summation of complex problem solving that has the power to make a genuine difference in the world. It is truly an endeavor like no other.
