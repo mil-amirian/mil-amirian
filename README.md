@@ -25,7 +25,7 @@ In addition to web development, prior experience includes over 10 years of Key A
 
 ## How did I get into coding?
 
-I have always possessed the mindset of a programmer - the ability to find solutions regardless of the complexity of the problem. Even during my bachelor’s in Aerospace Systems Engineering, I was consistently drawn to avionics architecture, ARINC databuses and their communication protocols. I also covered Aerothermodynamics and propulsion, but it was always the systems portions that really excited me. In 2014, while playing around with static themes, I realized I loved the process of manipulating code. With coding, I have found it to be the summation of complex problem solving that has the power to make a genuine difference in the world. It is truly an endeavor like no other.
+I was programmer before I even knew what a programmer is or does - the ability to find solutions regardless of the complexity of the problem. In fact, even during my Bachelor’s in Aerospace Systems Engineering, I was consistently drawn to avionics architecture, ARINC databuses and their communication protocols due to the their complexity. In 2014, while playing around with static web themes, I realized I loved the process of manipulating code and it developed into a hobby for friends and family who needed websites made. Fast forward to 2020 and I turned my passion for Web Development into my job. With coding, I have found it to be the summation of complex problem solving that has the power to make a genuine difference in the world. It is truly an endeavor like no other.
 
 ## Softskills
 
